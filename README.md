@@ -5,11 +5,8 @@
 - 🌍 Falo Português 🇧🇷 | Inglês 🇺🇸 | Polonês 🇵🇱  
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEUUSERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/guilherme-kotoski-6507b2345/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:SEUGMAIL">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
 </p>
 
@@ -29,3 +26,4 @@
 ### 📊 Estatísticas do GitHub
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiKotoski&theme=github_dark&show_icons=true)
+
