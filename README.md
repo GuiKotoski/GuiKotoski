@@ -2,7 +2,7 @@
 
 - 💻 Desenvolvedor Back-end (C# / Java)  
 - 📘 Estudante de Engenharia de Software  
-- 🌍 Falo Português 🇧🇷 | Inglês 🇺🇸 | Polonês 🇵🇱  
+- 🌍 Falo Português 🇧🇷 | Inglês 🇺🇸  
 
 <p align="left">
   <a href="https://www.linkedin.com/in/guilherme-kotoski-6507b2345/" target="_blank">
