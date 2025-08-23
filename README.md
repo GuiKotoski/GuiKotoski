@@ -1,7 +1,7 @@
 ### 👨‍💻 Sobre mim
 
 - 💻 Desenvolvedor Back-end (C# / Java)  
-- 📘 Estudante de Engenharia de Software  
+- 📘 Engenheiro de Software  
 - 🌍 Falo Português 🇧🇷 | Inglês 🇺🇸  
 
 <p align="left">
