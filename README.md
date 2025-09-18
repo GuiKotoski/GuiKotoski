@@ -19,9 +19,5 @@
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
 </p>
 
----
 
-### 📊 Estatísticas do GitHub
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiKotoski&theme=github_dark&show_icons=true)
 
